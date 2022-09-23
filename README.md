@@ -1,4 +1,4 @@
-# OnePizza 🍕
+# 🍕 OnePizza 🍕
 
 <img src = "OnePizzaLogo.png" width="100%">
 
