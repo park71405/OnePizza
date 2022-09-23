@@ -1,6 +1,6 @@
 # OnePizza
 
-![ex_screenshot](./screenshot.png)
+![ex_screenshot](screenshot.png)
 
 ## 제작 컨셉
 < 피자가게 자동화 가게 시스템 >
