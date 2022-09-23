@@ -1,5 +1,7 @@
 # OnePizza
 
+![ex_screenshot](./screenshot.png)
+
 ## 제작 컨셉
 < 피자가게 자동화 가게 시스템 >
 - java로만 이루어진 피자 주문 시스템입니다.
