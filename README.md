@@ -1,6 +1,6 @@
 # OnePizza
 
-![Logo](OnePizzaLogo.png){: width="100%"}
+<img src = "OnePizzaLogo.png" width="100%">
 
 ## 제작 컨셉
 < 피자가게 자동화 가게 시스템 >
